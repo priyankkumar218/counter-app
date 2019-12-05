@@ -69,5 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Snapshots
 
-!(/Images/counter1.png)
-!(/Images/counter2.png)
+![Counter1](/Images/counter1.png)
+![Counter2](/Images/counter2.png)
